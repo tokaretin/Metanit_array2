@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <cstring>
+#include <string>
 
 int main() {
     char* input = nullptr; // Указатель на массив символов
